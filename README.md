@@ -1,6 +1,6 @@
 # luau-utils
 
-A collection of Lightweight, strictly-typed Luau utilities for Roblox.
+A collection of lightweight, strictly-typed Luau utilities for Roblox.
 
 ## Modules
 
