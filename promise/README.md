@@ -1,4 +1,4 @@
-# Promise.luau
+# Promise
 
 A small, strictly typed Promise implementation for Roblox, written in Luau.
 
